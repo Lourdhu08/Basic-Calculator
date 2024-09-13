@@ -1,6 +1,3 @@
-Here's a README file for the **basic calculator** project. This file provides an overview, installation instructions, and details about how the project works.
-
----
 
 # Basic Calculator
 
